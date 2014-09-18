@@ -1,7 +1,7 @@
 <?php
 //Contact form config
-$email_to = "support@themeleaf.com";
-$email_subject = "Feedback form submitted";
+$email_to = "werksauto@aol.com";
+$email_subject = "Feedback form submitted from website";
 
 //recaptcha config
 $use_recaptcha = true;
